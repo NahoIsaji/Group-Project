@@ -1,0 +1,38 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 14-Dec-2021, 9:24:45 PM
+    Author     : Irian
+*/
+
+    .title{ 
+        text-align: center; 
+        font-size:40px; color:blue; 
+        font-family: cataneo Bt;
+        background-color:gold
+    }
+    
+        ul {
+            list-style-type: none;
+            background-color: maroon;
+            overflow: hidden;
+            font-size: 20px;
+            color: white;
+           
+            
+        }
+        li{
+            float:left;
+        }
+        li a {
+            padding: 14px 150px;
+            display: block;
+            color: yellow;
+            text-decoration: none;
+        }
+        li a:hover{
+            background-color:sienna; 
+        }
+    

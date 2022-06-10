@@ -1,0 +1,45 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 12-Dec-2021, 4:41:56 PM
+    Author     : Irian
+*/
+
+h1 {
+    color: blue;
+    font-size: 50px;
+}
+
+body{
+        
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    background: papayawhip;
+    
+}
+
+table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    
+    min-width: 500px;
+    text-align: left;
+    padding: 12px 15px;
+    border-bottom: 1px solid #dddddd;
+    border-radius: 5px 5px 0 0;
+    border-color: #009879;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+tr {
+    background-color: whitesmoke;
+    border-bottom: 1px solid #dddddd;
+    font-size: 30px;
+}
+

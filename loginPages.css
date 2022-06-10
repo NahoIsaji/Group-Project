@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 12-Dec-2021, 5:37:31 PM
+    Author     : Irian
+*/
+h2{
+    color: blue;
+    font-size: 50px;
+}
+body{
+    background: papayawhip;
+    font-size: 25px;
+}
+
+select{
+    font-size: 23px;
+}
+
+input {
+     font-size: 25px;
+     color: green;
+}
